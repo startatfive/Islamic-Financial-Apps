@@ -1,0 +1,9 @@
+[
+  { "category": "belanja", "suggestedFlag": "halal", "reason": "Ordinary permissible spend" },
+  { "category": "transportasi", "suggestedFlag": "halal", "reason": "Ordinary permissible spend" },
+  { "category": "gaji", "suggestedFlag": "halal", "reason": "Ordinary permissible spend" },
+  { "category": "sadaqah", "suggestedFlag": "halal", "reason": "Ordinary permissible spend" },
+  { "category": "hiburan", "suggestedFlag": "syubhat", "reason": "Venue-dependent" },
+  { "category": "investasi", "suggestedFlag": "syubhat", "reason": "Depends on the instrument" },
+  { "category": "lainnya", "suggestedFlag": "halal", "reason": "Ordinary permissible spend" }
+]
