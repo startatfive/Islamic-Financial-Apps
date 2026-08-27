@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "Barakah",
+    "slug": "barakah",
+    "scheme": "barakah",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "dark",
+    "backgroundColor": "#161826",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "id.barakah.app",
+      "backgroundColor": "#161826"
+    },
+    "android": {
+      "package": "id.barakah.app",
+      "adaptiveIcon": {
+        "backgroundColor": "#161826",
+        "foregroundImage": "./assets/android-icon-foreground.png",
+        "backgroundImage": "./assets/android-icon-background.png",
+        "monochromeImage": "./assets/android-icon-monochrome.png"
+      },
+      "predictiveBackGestureEnabled": false
+    },
+    "web": {
+      "favicon": "./assets/favicon.png",
+      "backgroundColor": "#161826"
+    }
+  }
+}
